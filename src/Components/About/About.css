@@ -1,0 +1,17 @@
+.about{
+    /* margin: 100px auto; */
+    width: 90%;
+}
+.about-left{
+    flex-basis: 40%;
+    position: relative;
+}
+.about-right{
+    flex-basis: 56%;
+}
+.play-icon{
+    transform: translate(-50%, -50%);
+}
+p {
+    text-align: justify;
+}
